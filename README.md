@@ -42,7 +42,7 @@ A smart assistant that helps professors manage student mentoring by automating c
 
 ## Screenshot
 
-![AI Tutor Mentoring System Dashboard](dashboard-screenshot.png)
+<img src="https://github.com/user-attachments/assets/6c5cd385-ef96-41db-89ae-d382b49a314a" width="60%">
 
 
 

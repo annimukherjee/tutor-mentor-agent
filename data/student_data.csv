@@ -1,0 +1,6 @@
+﻿id,roll_no,first_name,last_name,email,phone,parent1_phone,parent2_phone,attendance
+1,2205460,Bhaskar,Lalwani,2205460@kiit.ac.in,+919678643904,+918198097021,+918686827123,"{'Computer Science': 70.3, 'Data Structures': 96.6, 'Algorithms': 84.0, 'Machine Learning': 96.8, 'Web Development': 96.5, 'Database Systems': 83.0}"
+2,2205568,Mayur,Gogoi,2205568@kiit.ac.in,+918125694396,+917300978987,+919674904982,"{'Computer Science': 63.7, 'Data Structures': 85.0, 'Algorithms': 75.7, 'Machine Learning': 98.8, 'Web Development': 64.7, 'Database Systems': 71.3}"
+3,2205533,Aniruddha,Mukherjee,2205533@kiit.ac.in,+918875684523,+917537794895,+918148451593,"{'Computer Science': 90.7, 'Data Structures': 94.1, 'Algorithms': 61.9, 'Machine Learning': 90.0, 'Web Development': 91.4, 'Database Systems': 92.7}"
+4,2205967,Amandeep,Chourasia,2205967@kiit.ac.in,+917205019341,+919299049578,+917193621435,"{'Computer Science': 63.6, 'Data Structures': 75.5, 'Algorithms': 65.4, 'Machine Learning': 80.6, 'Web Development': 75.2, 'Database Systems': 84.7}"
+5,2205557,Ishaan,Mukherjee,2205557@kiit.ac.in,+917501946786,+919589690987,+919558738899,"{'Computer Science': 79.9, 'Data Structures': 88.5, 'Algorithms': 94.5, 'Machine Learning': 90.3, 'Web Development': 98.1, 'Database Systems': 77.9}"

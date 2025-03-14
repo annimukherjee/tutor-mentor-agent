@@ -1,0 +1,160 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Tutor Mentoring System</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .dashboard-card {
+            transition: transform 0.3s;
+        }
+        .dashboard-card:hover {
+            transform: translateY(-5px);
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="/">AI Tutor Mentoring System</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Dashboard</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/students">Students</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/messages">Messages</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/follow_ups">Follow-ups</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container py-4">
+        {% for message in get_flashed_messages() %}
+            <div class="alert alert-info alert-dismissible fade show">
+                {{ message }}
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+            </div>
+        {% endfor %}
+        
+        <h1 class="mb-4">AI Tutor Mentoring Dashboard</h1>
+        
+        <div class="row">
+            <div class="col-md-6 col-lg-3 mb-4">
+                <div class="card dashboard-card h-100 bg-light">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Students</h5>
+                        <p class="display-4">80</p>
+                        <a href="/students" class="btn btn-primary">View All</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-3 mb-4">
+                <div class="card dashboard-card h-100 bg-light">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">New Messages</h5>
+                        <p class="display-4" id="message-count">0</p>
+                        <a href="/messages" class="btn btn-primary">Check Messages</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-3 mb-4">
+                <div class="card dashboard-card h-100 bg-light">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Today's Follow-ups</h5>
+                        <p class="display-4" id="followup-count">0</p>
+                        <a href="/follow_ups" class="btn btn-primary">View Follow-ups</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-3 mb-4">
+                <div class="card dashboard-card h-100 bg-light">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Actions</h5>
+                        <button id="refresh-btn" class="btn btn-success mb-2 w-100">Refresh Data</button>
+                        <button id="generate-data-btn" class="btn btn-secondary w-100">Regenerate Data</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row mt-4">
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="card-header bg-primary text-white">
+                        <h5 class="card-title mb-0">Recent Messages</h5>
+                    </div>
+                    <div class="card-body" id="recent-messages">
+                        <p class="text-muted">No recent messages</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="card-header bg-primary text-white">
+                        <h5 class="card-title mb-0">Today's Follow-ups</h5>
+                    </div>
+                    <div class="card-body" id="todays-followups">
+                        <p class="text-muted">No follow-ups scheduled for today</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="bg-light py-3 mt-5">
+        <div class="container text-center">
+            <p class="text-muted mb-0">AI Tutor Mentoring System - Prototype</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const refreshBtn = document.getElementById('refresh-btn');
+            
+            refreshBtn.addEventListener('click', function() {
+                refreshBtn.disabled = true;
+                refreshBtn.innerHTML = '<span class="spinner-border spinner-border-sm"></span> Refreshing...';
+                
+                fetch('/api/refresh_messages', {
+                    method: 'POST'
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        document.getElementById('message-count').textContent = data.message_count;
+                        alert('Data refreshed successfully!');
+                    } else {
+                        alert('Error refreshing data: ' + data.error);
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('Error refreshing data. Please try again.');
+                })
+                .finally(() => {
+                    refreshBtn.disabled = false;
+                    refreshBtn.textContent = 'Refresh Data';
+                });
+            });
+        });
+    </script>
+</body>
+</html>

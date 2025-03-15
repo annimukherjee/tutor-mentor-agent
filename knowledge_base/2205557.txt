@@ -1,5 +1,5 @@
 # Knowledge Base for Ishaan Mukherjee (2205557)
-Created: 2025-03-15 03:37:39
+Created: 2025-03-15 11:40:56
 
 ## Basic Information
 - Name: Ishaan Mukherjee
@@ -10,12 +10,12 @@ Created: 2025-03-15 03:37:39
 - Parent 2 Phone: 919558738899
 
 ## Attendance Summary
-- Computer Science: 68.4%
-- Data Structures: 82.5%
-- Algorithms: 91.3%
-- Machine Learning: 74.2%
-- Web Development: 82.1%
-- Database Systems: 84.9%
+- Computer Science: 72.7%
+- Data Structures: 84.4%
+- Algorithms: 88.9%
+- Machine Learning: 75.2%
+- Web Development: 92.6%
+- Database Systems: 66.7%
 
 ## Interaction History
 

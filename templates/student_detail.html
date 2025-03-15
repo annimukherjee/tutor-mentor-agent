@@ -1,6 +1,7 @@
 <!-- templates/student_detail.html -->
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,6 +15,7 @@
             border-radius: 4px;
             overflow: hidden;
         }
+
         .attendance-fill {
             height: 100%;
             background-color: #0d6efd;
@@ -22,18 +24,21 @@
             font-weight: bold;
             line-height: 24px;
         }
+
         .kb-section {
             margin-bottom: 2rem;
             padding: 1rem;
             background-color: #f8f9fa;
             border-radius: 0.5rem;
         }
+
         pre {
             white-space: pre-wrap;
             word-wrap: break-word;
         }
     </style>
 </head>
+
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container">
@@ -62,29 +67,27 @@
 
     <div class="container py-4">
         {% for message in get_flashed_messages() %}
-            <div class="alert alert-info alert-dismissible fade show">
-                {{ message }}
-                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
-            </div>
+        <div class="alert alert-info alert-dismissible fade show">
+            {{ message }}
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
         {% endfor %}
-        
+
         <div class="d-flex justify-content-between align-items-center mb-4">
             <h1>{{ student.first_name }} {{ student.last_name }}</h1>
             <div>
                 <a href="/students" class="btn btn-outline-primary me-2">
                     <i class="bi bi-arrow-left"></i> Back to Students
                 </a>
-                <button type="button" class="btn btn-success" 
-                        data-bs-toggle="modal" 
-                        data-bs-target="#messageModal"
-                        data-student-email="{{ student.email }}"
-                        data-student-name="{{ student.first_name }} {{ student.last_name }}"
-                        data-student-roll="{{ student.roll_no }}">
+                <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#messageModal"
+                    data-student-email="{{ student.email }}"
+                    data-student-name="{{ student.first_name }} {{ student.last_name }}"
+                    data-student-roll="{{ student.roll_no }}">
                     <i class="bi bi-envelope"></i> Send Message
                 </button>
             </div>
         </div>
-        
+
         <div class="row">
             <div class="col-md-4 mb-4">
                 <div class="card h-100">
@@ -100,7 +103,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="col-md-8 mb-4">
                 <div class="card h-100">
                     <div class="card-header bg-primary text-white">
@@ -108,47 +111,47 @@
                     </div>
                     <div class="card-body">
                         {% if student.attendance is mapping %}
-                            {% for course, attendance in student.attendance.items() %}
-                            <div class="mb-3">
-                                <div class="d-flex justify-content-between mb-1">
-                                    <span><strong>{{ course }}</strong></span>
-                                    <span>{{ attendance }}%</span>
-                                </div>
-                                <div class="attendance-bar">
-                                    <div class="attendance-fill" style="width: {{ attendance }}%">
-                                        {{ attendance }}%
-                                    </div>
+                        {% for course, attendance in student.attendance.items() %}
+                        <div class="mb-3">
+                            <div class="d-flex justify-content-between mb-1">
+                                <span><strong>{{ course }}</strong></span>
+                                <span>{{ attendance }}%</span>
+                            </div>
+                            <div class="attendance-bar">
+                                <div class="attendance-fill" style="width: {{ attendance }}%">
+                                    {{ attendance }}%
                                 </div>
                             </div>
-                            {% endfor %}
+                        </div>
+                        {% endfor %}
                         {% else %}
-                            <div class="alert alert-warning">
-                                Attendance data not available in the expected format.
-                            </div>
+                        <div class="alert alert-warning">
+                            Attendance data not available in the expected format.
+                        </div>
                         {% endif %}
-                        
+
                         {% if student.attendance is mapping %}
-                            {% set attendance_values = student.attendance.values()|list %}
-                            {% if attendance_values|length > 0 %}
-                                <div class="mt-4">
-                                    <div class="d-flex justify-content-between mb-1">
-                                        <span><strong>Average Attendance</strong></span>
-                                        {% set avg_attendance = (attendance_values|sum) / attendance_values|length %}
-                                        <span>{{ "%.1f"|format(avg_attendance) }}%</span>
-                                    </div>
-                                    <div class="attendance-bar">
-                                        <div class="attendance-fill" style="width: {{ avg_attendance }}%">
-                                            {{ "%.1f"|format(avg_attendance) }}%
-                                        </div>
-                                    </div>
+                        {% set attendance_values = student.attendance.values()|list %}
+                        {% if attendance_values|length > 0 %}
+                        <div class="mt-4">
+                            <div class="d-flex justify-content-between mb-1">
+                                <span><strong>Average Attendance</strong></span>
+                                {% set avg_attendance = (attendance_values|sum) / attendance_values|length %}
+                                <span>{{ "%.1f"|format(avg_attendance) }}%</span>
+                            </div>
+                            <div class="attendance-bar">
+                                <div class="attendance-fill" style="width: {{ avg_attendance }}%">
+                                    {{ "%.1f"|format(avg_attendance) }}%
                                 </div>
-                            {% endif %}
+                            </div>
+                        </div>
+                        {% endif %}
                         {% endif %}
                     </div>
                 </div>
             </div>
         </div>
-        
+
         <div class="row">
             <div class="col-12 mb-4">
                 <div class="card">
@@ -161,35 +164,45 @@
                     <div class="card-body">
                         <ul class="nav nav-tabs" id="kbTabs" role="tablist">
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="raw-tab" data-bs-toggle="tab" data-bs-target="#raw" type="button" role="tab" aria-controls="raw" aria-selected="true">Raw</button>
+                                <button class="nav-link active" id="raw-tab" data-bs-toggle="tab" data-bs-target="#raw"
+                                    type="button" role="tab" aria-controls="raw" aria-selected="true">Raw</button>
                             </li>
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="interactions-tab" data-bs-toggle="tab" data-bs-target="#interactions" type="button" role="tab" aria-controls="interactions" aria-selected="false">Interactions</button>
+                                <button class="nav-link" id="interactions-tab" data-bs-toggle="tab"
+                                    data-bs-target="#interactions" type="button" role="tab" aria-controls="interactions"
+                                    aria-selected="false">Interactions</button>
                             </li>
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="special-tab" data-bs-toggle="tab" data-bs-target="#special" type="button" role="tab" aria-controls="special" aria-selected="false">Special Circumstances</button>
+                                <button class="nav-link" id="special-tab" data-bs-toggle="tab" data-bs-target="#special"
+                                    type="button" role="tab" aria-controls="special" aria-selected="false">Special
+                                    Circumstances</button>
                             </li>
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="notes-tab" data-bs-toggle="tab" data-bs-target="#notes" type="button" role="tab" aria-controls="notes" aria-selected="false">Notes</button>
+                                <button class="nav-link" id="notes-tab" data-bs-toggle="tab" data-bs-target="#notes"
+                                    type="button" role="tab" aria-controls="notes" aria-selected="false">Notes</button>
                             </li>
                         </ul>
                         <div class="tab-content" id="kbTabsContent">
                             <div class="tab-pane fade show active" id="raw" role="tabpanel" aria-labelledby="raw-tab">
                                 <pre class="mt-3 p-3 bg-light">{{ knowledge_base }}</pre>
                             </div>
-                            <div class="tab-pane fade" id="interactions" role="tabpanel" aria-labelledby="interactions-tab">
+                            <div class="tab-pane fade" id="interactions" role="tabpanel"
+                                aria-labelledby="interactions-tab">
                                 <div class="mt-3" id="interactions-content">
-                                    <p class="text-muted">Loading interactions...</p>
+                                    <p class="text-muted"><i class="bi bi-arrow-clockwise me-2"></i>Click to load
+                                        interactions</p>
                                 </div>
                             </div>
                             <div class="tab-pane fade" id="special" role="tabpanel" aria-labelledby="special-tab">
                                 <div class="mt-3" id="special-content">
-                                    <p class="text-muted">Loading special circumstances...</p>
+                                    <p class="text-muted"><i class="bi bi-arrow-clockwise me-2"></i>Click to load
+                                        special circumstances</p>
                                 </div>
                             </div>
                             <div class="tab-pane fade" id="notes" role="tabpanel" aria-labelledby="notes-tab">
                                 <div class="mt-3" id="notes-content">
-                                    <p class="text-muted">Loading notes...</p>
+                                    <p class="text-muted"><i class="bi bi-arrow-clockwise me-2"></i>Click to load notes
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -197,6 +210,7 @@
                 </div>
             </div>
         </div>
+    </div>
     </div>
 
     <!-- Message Modal -->
@@ -211,12 +225,12 @@
                     <div class="modal-body">
                         <input type="hidden" name="email" value="{{ student.email }}">
                         <input type="hidden" name="roll_no" value="{{ student.roll_no }}">
-                        
+
                         <div class="mb-3">
                             <label for="subject" class="form-label">Subject</label>
                             <input type="text" class="form-control" id="subject" name="subject" required>
                         </div>
-                        
+
                         <div class="mb-3">
                             <label for="message" class="form-label">Message</label>
                             <textarea class="form-control" id="message" name="message" rows="5" required></textarea>
@@ -232,6 +246,7 @@
     </div>
 
     <!-- Edit Knowledge Base Modal -->
+    <!-- Edit Knowledge Base Modal -->
     <div class="modal fade" id="editKBModal" tabindex="-1" aria-hidden="true">
         <div class="modal-dialog modal-lg">
             <div class="modal-content">
@@ -246,14 +261,28 @@
                             <select class="form-select" id="kb-section" name="section" required>
                                 <option value="Notes">Notes</option>
                                 <option value="Special Circumstances">Special Circumstances</option>
+                                <option value="Interaction History">Interaction History</option>
                             </select>
                         </div>
-                        
+
+                        <div id="special-circumstance-fields" class="mb-3" style="display: none;">
+                            <div class="mb-3">
+                                <label for="circumstance-type" class="form-label">Type</label>
+                                <input type="text" class="form-control" id="circumstance-type" name="circumstance_type"
+                                    placeholder="e.g., Leave Request, Medical Issue">
+                            </div>
+
+                            <div class="mb-3">
+                                <label for="follow-up-date" class="form-label">Follow-up Date (optional)</label>
+                                <input type="date" class="form-control" id="follow-up-date" name="follow_up_date">
+                            </div>
+                        </div>
+
                         <div class="mb-3">
                             <label for="kb-content" class="form-label">Content</label>
                             <textarea class="form-control" id="kb-content" name="content" rows="10" required></textarea>
                         </div>
-                        
+
                         <input type="hidden" name="roll_no" value="{{ student.roll_no }}">
                     </form>
                 </div>
@@ -273,39 +302,69 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', function () {
+            // Load tab content when the page loads (for the default active tab)
+            const activeTab = document.querySelector('#kbTabs button.active');
+            if (activeTab) {
+                const target = activeTab.getAttribute('data-bs-target').replace('#', '');
+                loadTabContent(target);
+            }
+
             // Handle Knowledge Base tabs clicking
             const kbTabs = document.querySelectorAll('#kbTabs button');
             kbTabs.forEach(tab => {
-                tab.addEventListener('click', function(event) {
+                tab.addEventListener('click', function (event) {
                     const target = this.getAttribute('data-bs-target').replace('#', '');
-                    const kbContent = document.getElementById('kb-content');
-                    
-                    if (target === 'interactions') {
-                        extractKBSection('Interaction History');
-                    } else if (target === 'special') {
-                        extractKBSection('Special Circumstances');
-                    } else if (target === 'notes') {
-                        extractKBSection('Notes');
-                    }
+                    loadTabContent(target);
                 });
             });
-            
+
+            // Function to load content for a specific tab
+            function loadTabContent(tabId) {
+                if (tabId === 'raw') {
+                    // Raw tab already shows content from server
+                    return;
+                }
+
+                // Get section name based on tab ID
+                let sectionName = '';
+                switch (tabId) {
+                    case 'interactions':
+                        sectionName = 'Interaction History';
+                        break;
+                    case 'special':
+                        sectionName = 'Special Circumstances';
+                        break;
+                    case 'notes':
+                        sectionName = 'Notes';
+                        break;
+                    default:
+                        return;
+                }
+
+                // Set loading state
+                document.getElementById(`${tabId}-content`).innerHTML =
+                    '<p class="text-muted"><i class="bi bi-hourglass-split me-2"></i>Loading content...</p>';
+
+                // Extract KB section content
+                extractKBSection(sectionName, tabId);
+            }
+
             // Extract KB section content
-            function extractKBSection(sectionName) {
+            function extractKBSection(sectionName, targetId) {
                 const kb = document.querySelector('#raw pre').textContent;
                 const sectionRegex = new RegExp(`## ${sectionName}\\n([\\s\\S]*?)(?=\\n## |$)`, 'i');
                 const match = kb.match(sectionRegex);
-                
+
                 let content = '<p class="text-muted">No content in this section</p>';
                 if (match && match[1].trim()) {
                     const sectionContent = match[1].trim();
                     content = formatSectionContent(sectionName, sectionContent);
                 }
-                
-                document.getElementById(`${sectionName.toLowerCase().replace(' ', '-')}-content`).innerHTML = content;
+
+                document.getElementById(`${targetId}-content`).innerHTML = content;
             }
-            
+
             // Format section content for display
             function formatSectionContent(sectionName, content) {
                 if (sectionName === 'Interaction History') {
@@ -316,29 +375,29 @@
                     return `<div class="p-3 bg-light rounded">${content.replace(/\n/g, '<br>')}</div>`;
                 }
             }
-            
+
             // Format interactions for display
             function formatInteractions(content) {
                 const lines = content.split('\n').filter(line => line.trim());
                 if (lines.length === 0) return '<p class="text-muted">No interactions recorded</p>';
-                
+
                 let html = '<div class="list-group">';
-                
+
                 let currentTime = '';
                 let messageContent = '';
                 let isFromStudent = false;
-                
+
                 lines.forEach(line => {
-                    if (line.startsWith('[')) {
+                    if (line.match(/^\[\d{4}-\d{2}-\d{2}\s\d{2}:\d{2}:\d{2}\]/)) {
                         // If we already have a message, add it to the HTML
                         if (currentTime && messageContent) {
                             html += createMessageItem(currentTime, messageContent, isFromStudent);
                         }
-                        
+
                         // Parse the new message
                         const timeMatch = line.match(/\[(.*?)\]/);
                         currentTime = timeMatch ? timeMatch[1] : '';
-                        
+
                         isFromStudent = line.includes('FROM student');
                         messageContent = line.substring(line.indexOf(':') + 1).trim();
                     } else {
@@ -346,48 +405,75 @@
                         messageContent += '\n' + line;
                     }
                 });
-                
+
                 // Add the last message
                 if (currentTime && messageContent) {
                     html += createMessageItem(currentTime, messageContent, isFromStudent);
                 }
-                
+
                 html += '</div>';
                 return html;
             }
-            
+
             // Create message item HTML
             function createMessageItem(time, content, isFromStudent) {
                 const direction = isFromStudent ? 'From Student' : 'To Student';
                 const colorClass = isFromStudent ? 'list-group-item-info' : 'list-group-item-success';
-                
+
+                let messageBody = content;
+                let subject = '';
+
+                // Try to extract subject if it exists
+                const subjectMatch = content.match(/SUBJECT:\s*(.*?)(?:\n|$)/);
+                if (subjectMatch) {
+                    subject = subjectMatch[1];
+                    messageBody = messageBody.replace(/SUBJECT:\s*(.*?)(?:\n|$)/, '');
+                }
+
+                // Try to extract body if it exists
+                const bodyMatch = messageBody.match(/BODY:\s*(.*?)(?:\n|$)/s);
+                if (bodyMatch) {
+                    messageBody = bodyMatch[1];
+                }
+
                 return `
                 <div class="list-group-item ${colorClass} mb-2">
                     <div class="d-flex justify-content-between">
                         <strong>${direction}</strong>
                         <small>${time}</small>
                     </div>
-                    <p class="mt-2 mb-0">${content.replace(/\n/g, '<br>')}</p>
+                    ${subject ? `<div class="mt-1"><strong>Subject:</strong> ${subject}</div>` : ''}
+                    <p class="mt-2 mb-0">${messageBody.replace(/\n/g, '<br>')}</p>
                 </div>`;
             }
-            
+
             // Format special circumstances for display
             function formatCircumstances(content) {
-                const circumstances = content.split(/\[[\d-:\s]+\]/).filter(item => item.trim());
-                if (circumstances.length === 0) return '<p class="text-muted">No special circumstances recorded</p>';
-                
+                // If there's no content, show message
+                if (!content.trim()) {
+                    return '<p class="text-muted">No special circumstances recorded</p>';
+                }
+
+                // Extract timestamp blocks [YYYY-MM-DD HH:MM:SS]
+                const circumstances = content.split(/\[\d{4}-\d{2}-\d{2}\s\d{2}:\d{2}:\d{2}\]/)
+                    .filter(item => item.trim());
+
+                if (circumstances.length === 0) {
+                    return '<p class="text-muted">No special circumstances recorded</p>';
+                }
+
                 let html = '<div class="accordion" id="circumstancesAccordion">';
-                
+
                 circumstances.forEach((item, index) => {
-                    const typeMatch = item.match(/TYPE: (.*?)(?:\n|$)/);
-                    const detailsMatch = item.match(/DETAILS: (.*?)(?:\n|$)/);
-                    const followUpMatch = item.match(/FOLLOW-UP DATE: (.*?)(?:\n|$)/);
-                    
+                    const typeMatch = item.match(/TYPE:\s*(.*?)(?:\n|$)/);
+                    const detailsMatch = item.match(/DETAILS:\s*(.*?)(?:\n|$)/s);
+                    const followUpMatch = item.match(/FOLLOW-UP DATE:\s*(.*?)(?:\n|$)/);
+
                     if (typeMatch) {
                         const type = typeMatch[1];
                         const details = detailsMatch ? detailsMatch[1] : '';
                         const followUp = followUpMatch ? followUpMatch[1] : '';
-                        
+
                         html += `
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="heading${index}">
@@ -404,43 +490,102 @@
                         </div>`;
                     }
                 });
-                
+
                 html += '</div>';
                 return html;
             }
-            
+
+            // Handle the Edit Knowledge Base modal
+            const editKBModal = document.getElementById('editKBModal');
+            if (editKBModal) {
+                editKBModal.addEventListener('show.bs.modal', function () {
+                    const activeTabId = document.querySelector('#kbTabs button.active').getAttribute('data-bs-target').replace('#', '');
+                    const section = document.getElementById('kb-section');
+                    const content = document.getElementById('kb-content');
+
+                    // Set the default selected section
+                    if (activeTabId === 'notes') {
+                        section.value = 'Notes';
+                        // Extract current notes content
+                        extractAndSetSectionContent('Notes');
+                    } else if (activeTabId === 'special') {
+                        section.value = 'Special Circumstances';
+                        // Clear the content area for new entry
+                        content.value = '';
+                    } else {
+                        section.value = 'Notes';
+                        content.value = '';
+                    }
+                });
+            }
+
+            // Handle section selection change
+            const kbSection = document.getElementById('kb-section');
+            if (kbSection) {
+                kbSection.addEventListener('change', function () {
+                    const selectedSection = this.value;
+                    extractAndSetSectionContent(selectedSection);
+                });
+            }
+
+            // Extract section content and set in the textarea
+            function extractAndSetSectionContent(sectionName) {
+                const kb = document.querySelector('#raw pre').textContent;
+                const sectionRegex = new RegExp(`## ${sectionName}\\n([\\s\\S]*?)(?=\\n## |$)`, 'i');
+                const match = kb.match(sectionRegex);
+
+                const contentElem = document.getElementById('kb-content');
+
+                if (sectionName === 'Notes') {
+                    // For Notes, show the entire content for editing
+                    if (match && match[1].trim()) {
+                        contentElem.value = match[1].trim();
+                    } else {
+                        contentElem.value = '';
+                    }
+                } else {
+                    // For other sections, prepare for new entry
+                    contentElem.value = '';
+                }
+            }
+
             // Handle save KB button
             const saveKBBtn = document.getElementById('save-kb-btn');
-            saveKBBtn.addEventListener('click', function() {
-                const form = document.getElementById('kb-form');
-                const formData = new FormData(form);
-                
-                saveKBBtn.disabled = true;
-                saveKBBtn.innerHTML = '<span class="spinner-border spinner-border-sm"></span> Saving...';
-                
-                fetch('/api/update_knowledge_base', {
-                    method: 'POST',
-                    body: formData
-                })
-                .then(response => response.json())
-                .then(data => {
-                    if (data.success) {
-                        alert('Knowledge base updated successfully!');
-                        location.reload();
-                    } else {
-                        alert('Error updating knowledge base: ' + data.error);
-                    }
-                })
-                .catch(error => {
-                    console.error('Error:', error);
-                    alert('Error updating knowledge base. Please try again.');
-                })
-                .finally(() => {
-                    saveKBBtn.disabled = false;
-                    saveKBBtn.textContent = 'Save Changes';
+            if (saveKBBtn) {
+                saveKBBtn.addEventListener('click', function () {
+                    const form = document.getElementById('kb-form');
+                    const formData = new FormData(form);
+                    const sectionName = formData.get('section');
+
+                    saveKBBtn.disabled = true;
+                    saveKBBtn.innerHTML = '<span class="spinner-border spinner-border-sm"></span> Saving...';
+
+                    fetch('/api/update_knowledge_base', {
+                        method: 'POST',
+                        body: formData
+                    })
+                        .then(response => response.json())
+                        .then(data => {
+                            if (data.success) {
+                                // Show success message
+                                alert('Knowledge base updated successfully!');
+                                location.reload();
+                            } else {
+                                alert('Error updating knowledge base: ' + data.error);
+                            }
+                        })
+                        .catch(error => {
+                            console.error('Error:', error);
+                            alert('Error updating knowledge base. Please try again.');
+                        })
+                        .finally(() => {
+                            saveKBBtn.disabled = false;
+                            saveKBBtn.textContent = 'Save Changes';
+                        });
                 });
-            });
+            }
         });
     </script>
 </body>
+
 </html>

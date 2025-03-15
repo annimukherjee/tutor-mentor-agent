@@ -1,5 +1,5 @@
 # Knowledge Base for Mayur Gogoi (2205568)
-Created: 2025-03-15 03:37:39
+Created: 2025-03-15 11:40:56
 
 ## Basic Information
 - Name: Mayur Gogoi
@@ -10,12 +10,12 @@ Created: 2025-03-15 03:37:39
 - Parent 2 Phone: 919674904982
 
 ## Attendance Summary
-- Computer Science: 91.5%
-- Data Structures: 64.9%
-- Algorithms: 64.2%
-- Machine Learning: 60.4%
-- Web Development: 95.8%
-- Database Systems: 75.0%
+- Computer Science: 87.8%
+- Data Structures: 74.1%
+- Algorithms: 92.7%
+- Machine Learning: 65.2%
+- Web Development: 65.4%
+- Database Systems: 99.6%
 
 ## Interaction History
 

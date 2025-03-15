@@ -31,9 +31,6 @@ nltk.download('punkt')
 nltk.download('punkt_tab')
 nltk.download('stopwords')
 
-# Configuration (would be in a separate file in a real app)
-
-
 # Load environment variables from .env file
 load_dotenv()
 
@@ -58,6 +55,10 @@ if not CONFIG["professor_email"] or not CONFIG["professor_password"]:
 # Create necessary directories
 os.makedirs(CONFIG["data_dir"], exist_ok=True)
 os.makedirs(CONFIG["knowledge_dir"], exist_ok=True)
+
+
+
+
 
 #################################
 # Data Generator
@@ -125,6 +126,10 @@ def load_student_data():
     print(f"Processed {len(students)} students from CSV and saved to {excel_path}")
     return students
 
+
+
+
+
 def create_knowledge_base(student):
     """Initialize an empty knowledge base for a student"""
     kb_file = os.path.join(CONFIG["knowledge_dir"], f"{student['roll_no']}.txt")
@@ -162,6 +167,9 @@ Created: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 # Knowledge Base Manager
 #################################
 
+
+
+
 def read_knowledge_base(roll_no):
     """Read a student's knowledge base file"""
     kb_file = os.path.join(CONFIG["knowledge_dir"], f"{roll_no}.txt")
@@ -173,6 +181,9 @@ def read_knowledge_base(roll_no):
         content = f.read()
     
     return content
+
+
+
 
 def update_knowledge_base(roll_no, section, new_content, timestamp=None):
     """Update a specific section of a student's knowledge base"""
@@ -207,6 +218,9 @@ def update_knowledge_base(roll_no, section, new_content, timestamp=None):
     
     return True
 
+
+
+
 def add_interaction(roll_no, message, is_from_student=True):
     """Add an interaction to the student's knowledge base"""
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -214,6 +228,10 @@ def add_interaction(roll_no, message, is_from_student=True):
     new_content = f"{direction}: {message}"
     
     return update_knowledge_base(roll_no, "Interaction History", new_content, timestamp)
+
+
+
+
 
 def add_special_circumstance(roll_no, circumstance_type, details, follow_up_date=None):
     """Add a special circumstance to the student's knowledge base"""
@@ -225,6 +243,10 @@ def add_special_circumstance(roll_no, circumstance_type, details, follow_up_date
         new_content += f"\nFOLLOW-UP DATE: {follow_up_date}"
     
     return update_knowledge_base(roll_no, "Special Circumstances", new_content, timestamp)
+
+
+
+
 
 def get_all_students():
     """Get a list of all students from the Excel file with attendance data"""
@@ -259,16 +281,32 @@ def get_all_students():
     except Exception as e:
         print(f"Error loading student data: {e}")
         return []
+    
+
+
 
 def get_student_by_roll_no(roll_no):
     """Get a student's information by roll number"""
     students = get_all_students()
     
+    # Convert roll_no to int if it's a string, since your roll numbers appear to be integers
+    if isinstance(roll_no, str):
+        try:
+            roll_no = int(roll_no)
+        except ValueError:
+            # If it can't be converted to int, keep it as is
+            pass
+    
+    # Search for the student with matching roll_no
     for student in students:
-        if student['roll_no'] == roll_no:
+        # Check if student's roll_no matches (handle both int and string cases)
+        if str(student['roll_no']) == str(roll_no):
             return student
     
     return None
+
+
+
 
 def get_student_by_email(email):
     """Get a student's information by email"""
@@ -282,17 +320,24 @@ def get_student_by_email(email):
     
     return None
 
+
+
+
+
+
+
 #################################
 # Email Processing
 #################################
 
 def extract_roll_no_from_email(sender_email):
     """Extract roll number from a student email address"""
-    # Try to match KIIT roll number format
-    match = re.match(r'(kiit\d+)@kiit\.ac\.in', sender_email.lower())
+    # Updated regex to match your email format (2205460@kiit.ac.in)
+    match = re.match(r'(\d+)@kiit\.ac\.in', sender_email.lower())
     
     if match:
-        return match.group(1).upper()
+        # Return the roll number as an integer since that's how it's stored
+        return int(match.group(1))
     
     # If that doesn't match, check our student database
     student = get_student_by_email(sender_email)
@@ -300,6 +345,9 @@ def extract_roll_no_from_email(sender_email):
         return student["roll_no"]
     
     return None
+
+
+
 
 def check_emails():
     """Check professor's email for new messages from students with [MENTOR-COMMUNICATION] in subject"""
@@ -380,6 +428,10 @@ def check_emails():
         print(f"Error checking emails: {e}")
         return []
 
+
+
+
+
 def process_student_message(roll_no, subject, body):
     """Process a message from a student and update their knowledge base"""
     # Get student info
@@ -400,6 +452,10 @@ def process_student_message(roll_no, subject, body):
         "body": body,
         "response": response
     }
+
+
+
+
 
 def analyze_message_content(roll_no, subject, body):
     """Analyze the content of a student message and determine appropriate response"""
@@ -461,6 +517,11 @@ def analyze_message_content(roll_no, subject, body):
         "suggested_response": "Thank you for your message. I've noted it down."
     }
 
+
+
+
+
+
 def extract_leave_duration(text):
     """Extract the number of days of leave from text"""
     # Look for patterns like "5 days", "for 3 days", etc.
@@ -477,6 +538,11 @@ def extract_leave_duration(text):
             return int(match.group(1))
     
     return None
+
+
+
+
+
 
 def send_email(to_email, subject, body):
     """Send an email to a student"""
@@ -499,6 +565,10 @@ def send_email(to_email, subject, body):
     except Exception as e:
         print(f"Error sending email: {e}")
         return False
+
+
+
+
 
 #################################
 # Follow-up System
@@ -543,6 +613,9 @@ def check_follow_ups():
     
     return follow_ups
 
+
+
+
 def generate_follow_up_message(circumstance_type, student):
     """Generate a follow-up message based on the circumstance type"""
     name = student['first_name']
@@ -556,6 +629,14 @@ def generate_follow_up_message(circumstance_type, student):
     else:
         return f"Hi {name}, I'm following up regarding our previous conversation. How are things going?"
 
+
+
+
+
+
+
+
+
 #################################
 # Flask Web Application
 #################################
@@ -566,13 +647,27 @@ app.secret_key = "ai_tutor_mentoring_system"  # For flash messages
 @app.route('/')
 def index():
     """Home page"""
-    return render_template('index.html')
+    # Get number of students from data
+    student_count = len(get_all_students())
+    
+    # Get number of follow-ups for today
+    follow_ups = check_follow_ups()
+    followup_count = len(follow_ups)
+    
+    return render_template('index.html', student_count=student_count, followup_count=followup_count)
+
+
+
+
 
 @app.route('/students')
 def students_list():
     """Show list of all students"""
     students = get_all_students()
     return render_template('students.html', students=students)
+
+
+
 
 @app.route('/student/<roll_no>')
 def student_detail(roll_no):
@@ -586,6 +681,9 @@ def student_detail(roll_no):
     knowledge_base = read_knowledge_base(roll_no)
     
     return render_template('student_detail.html', student=student, knowledge_base=knowledge_base)
+
+
+
 
 @app.route('/messages')
 def messages():

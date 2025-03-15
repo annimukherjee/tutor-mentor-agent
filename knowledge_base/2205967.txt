@@ -1,5 +1,5 @@
 # Knowledge Base for Amandeep Chourasia (2205967)
-Created: 2025-03-15 11:40:56
+Created: 2025-03-15 11:58:17
 
 ## Basic Information
 - Name: Amandeep Chourasia
@@ -10,12 +10,12 @@ Created: 2025-03-15 11:40:56
 - Parent 2 Phone: 917193621435
 
 ## Attendance Summary
-- Computer Science: 93.7%
-- Data Structures: 69.9%
-- Algorithms: 71.0%
-- Machine Learning: 72.0%
-- Web Development: 79.6%
-- Database Systems: 81.6%
+- Computer Science: 81.8%
+- Data Structures: 71.9%
+- Algorithms: 74.2%
+- Machine Learning: 99.8%
+- Web Development: 65.7%
+- Database Systems: 83.9%
 
 ## Interaction History
 

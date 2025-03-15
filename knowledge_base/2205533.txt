@@ -1,5 +1,5 @@
 # Knowledge Base for Aniruddha Mukherjee (2205533)
-Created: 2025-03-15 11:40:56
+Created: 2025-03-15 11:58:17
 
 ## Basic Information
 - Name: Aniruddha Mukherjee
@@ -10,16 +10,16 @@ Created: 2025-03-15 11:40:56
 - Parent 2 Phone: 918148451593
 
 ## Attendance Summary
-- Computer Science: 60.8%
-- Data Structures: 88.1%
-- Algorithms: 65.1%
-- Machine Learning: 83.5%
-- Web Development: 70.7%
-- Database Systems: 60.3%
+- Computer Science: 92.0%
+- Data Structures: 69.6%
+- Algorithms: 91.6%
+- Machine Learning: 67.0%
+- Web Development: 74.0%
+- Database Systems: 91.3%
 
 ## Interaction History
 
-[2025-03-15 11:41:05] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+[2025-03-15 12:00:43] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
 BODY: Dear Sir,
 
 I am taking a leave from Holi and I am leaving the hostel from the 14th of
@@ -88,9 +88,7 @@ attachments for the presence of viruses. The institute accepts no liability
 
 
 
-[2025-03-15 11:41:20] TO student: SUBJECT: Re: [MENTOR-COMMUNICATION] Re Leave for Holi
-BODY: I'm sorry to hear about your health issue. Please take care and keep me updated on your recovery. I'll check in with you on 2025-03-18.
-[2025-03-15 11:41:23] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+[2025-03-15 12:01:47] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
 BODY: Dear Sir,
 
 I am taking a leave from Holi and I am leaving the hostel from the 14th of
@@ -159,7 +157,7 @@ attachments for the presence of viruses. The institute accepts no liability
 
 
 
-[2025-03-15 11:42:50] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+[2025-03-15 12:04:09] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
 BODY: Dear Sir,
 
 I am taking a leave from Holi and I am leaving the hostel from the 14th of
@@ -167,6 +165,903 @@ March. I will return on the 17th of March.
 
 Thank you,
 Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+[2025-03-15 12:05:39] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+BODY: Dear Sir,
+
+I am taking a leave from Holi and I am leaving the hostel from the 14th of
+March. I will return on the 17th of March.
+
+Thank you,
+Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+[2025-03-15 12:05:52] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+BODY: Dear Sir,
+
+I am taking a leave from Holi and I am leaving the hostel from the 14th of
+March. I will return on the 17th of March.
+
+Thank you,
+Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+[2025-03-15 12:05:54] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+BODY: Dear Sir,
+
+I am taking a leave from Durga Puja and I am leaving the hostel from the
+14th of March. I will return on the 20th of March.
+
+Thank you,
+Aniruddha Mukherjee
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+[2025-03-15 12:37:37] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+BODY: Dear Sir,
+
+I am taking a leave from Holi and I am leaving the hostel from the 14th of
+March. I will return on the 17th of March.
+
+Thank you,
+Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+[2025-03-15 12:37:39] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+BODY: Dear Sir,
+
+I am taking a leave from Durga Puja and I am leaving the hostel from the
+14th of March. I will return on the 20th of March.
+
+Thank you,
+Aniruddha Mukherjee
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+[2025-03-15 12:40:35] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+BODY: Dear Sir,
+
+I am taking a leave from Holi and I am leaving the hostel from the 14th of
+March. I will return on the 17th of March.
+
+Thank you,
+Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+[2025-03-15 12:40:37] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+BODY: Dear Sir,
+
+I am taking a leave from Durga Puja and I am leaving the hostel from the
+14th of March. I will return on the 20th of March.
+
+Thank you,
+Aniruddha Mukherjee
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+[2025-03-15 12:41:01] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+BODY: Dear Sir,
+
+I am taking a leave from Holi and I am leaving the hostel from the 14th of
+March. I will return on the 17th of March.
+
+Thank you,
+Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+[2025-03-15 12:41:03] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+BODY: Dear Sir,
+
+I am taking a leave from Durga Puja and I am leaving the hostel from the
+14th of March. I will return on the 20th of March.
+
+Thank you,
+Aniruddha Mukherjee
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+[2025-03-15 12:41:07] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+BODY: Dear Sir,
+
+I am taking a leave from Holi and I am leaving the hostel from the 14th of
+March. I will return on the 17th of March.
+
+Thank you,
+Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+[2025-03-15 12:41:09] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+BODY: Dear Sir,
+
+I am taking a leave from Durga Puja and I am leaving the hostel from the
+14th of March. I will return on the 20th of March.
+
+Thank you,
+Aniruddha Mukherjee
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+[2025-03-15 12:43:25] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+BODY: Dear Sir,
+
+I am taking a leave from Holi and I am leaving the hostel from the 14th of
+March. I will return on the 17th of March.
+
+Thank you,
+Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+[2025-03-15 12:43:27] FROM student: SUBJECT: [MENTOR-COMMUNICATION] Re Leave for Holi
+BODY: Dear Sir,
+
+I am taking a leave from Durga Puja and I am leaving the hostel from the
+14th of March. I will return on the 20th of March.
+
+Thank you,
+Aniruddha Mukherjee
 
 -- 
 
@@ -230,7 +1125,7 @@ attachments for the presence of viruses. The institute accepts no liability
 
 ## Special Circumstances
 
-[2025-03-15 11:41:05] TYPE: Medical Issue
+[2025-03-15 12:00:43] TYPE: Medical Issue
 DETAILS: Student reported a medical issue. Message: Dear Sir,
 
 I am taking a leave from Holi and I am leaving the hostel from the 14th of
@@ -300,7 +1195,7 @@ attachments for the presence of viruses. The institute accepts no liability
 
 
 FOLLOW-UP DATE: 2025-03-18
-[2025-03-15 11:41:23] TYPE: Medical Issue
+[2025-03-15 12:01:47] TYPE: Medical Issue
 DETAILS: Student reported a medical issue. Message: Dear Sir,
 
 I am taking a leave from Holi and I am leaving the hostel from the 14th of
@@ -370,7 +1265,7 @@ attachments for the presence of viruses. The institute accepts no liability
 
 
 FOLLOW-UP DATE: 2025-03-18
-[2025-03-15 11:42:50] TYPE: Medical Issue
+[2025-03-15 12:04:09] TYPE: Medical Issue
 DETAILS: Student reported a medical issue. Message: Dear Sir,
 
 I am taking a leave from Holi and I am leaving the hostel from the 14th of
@@ -378,6 +1273,916 @@ March. I will return on the 17th of March.
 
 Thank you,
 Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+FOLLOW-UP DATE: 2025-03-18
+[2025-03-15 12:05:39] TYPE: Medical Issue
+DETAILS: Student reported a medical issue. Message: Dear Sir,
+
+I am taking a leave from Holi and I am leaving the hostel from the 14th of
+March. I will return on the 17th of March.
+
+Thank you,
+Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+FOLLOW-UP DATE: 2025-03-18
+[2025-03-15 12:05:52] TYPE: Medical Issue
+DETAILS: Student reported a medical issue. Message: Dear Sir,
+
+I am taking a leave from Holi and I am leaving the hostel from the 14th of
+March. I will return on the 17th of March.
+
+Thank you,
+Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+FOLLOW-UP DATE: 2025-03-18
+[2025-03-15 12:05:54] TYPE: Medical Issue
+DETAILS: Student reported a medical issue. Message: Dear Sir,
+
+I am taking a leave from Durga Puja and I am leaving the hostel from the
+14th of March. I will return on the 20th of March.
+
+Thank you,
+Aniruddha Mukherjee
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+FOLLOW-UP DATE: 2025-03-18
+[2025-03-15 12:37:37] TYPE: Medical Issue
+DETAILS: Student reported a medical issue. Message: Dear Sir,
+
+I am taking a leave from Holi and I am leaving the hostel from the 14th of
+March. I will return on the 17th of March.
+
+Thank you,
+Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+FOLLOW-UP DATE: 2025-03-18
+[2025-03-15 12:37:39] TYPE: Medical Issue
+DETAILS: Student reported a medical issue. Message: Dear Sir,
+
+I am taking a leave from Durga Puja and I am leaving the hostel from the
+14th of March. I will return on the 20th of March.
+
+Thank you,
+Aniruddha Mukherjee
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+FOLLOW-UP DATE: 2025-03-18
+[2025-03-15 12:40:35] TYPE: Medical Issue
+DETAILS: Student reported a medical issue. Message: Dear Sir,
+
+I am taking a leave from Holi and I am leaving the hostel from the 14th of
+March. I will return on the 17th of March.
+
+Thank you,
+Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+FOLLOW-UP DATE: 2025-03-18
+[2025-03-15 12:40:37] TYPE: Medical Issue
+DETAILS: Student reported a medical issue. Message: Dear Sir,
+
+I am taking a leave from Durga Puja and I am leaving the hostel from the
+14th of March. I will return on the 20th of March.
+
+Thank you,
+Aniruddha Mukherjee
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+FOLLOW-UP DATE: 2025-03-18
+[2025-03-15 12:41:01] TYPE: Medical Issue
+DETAILS: Student reported a medical issue. Message: Dear Sir,
+
+I am taking a leave from Holi and I am leaving the hostel from the 14th of
+March. I will return on the 17th of March.
+
+Thank you,
+Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+FOLLOW-UP DATE: 2025-03-18
+[2025-03-15 12:41:03] TYPE: Medical Issue
+DETAILS: Student reported a medical issue. Message: Dear Sir,
+
+I am taking a leave from Durga Puja and I am leaving the hostel from the
+14th of March. I will return on the 20th of March.
+
+Thank you,
+Aniruddha Mukherjee
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+FOLLOW-UP DATE: 2025-03-18
+[2025-03-15 12:41:07] TYPE: Medical Issue
+DETAILS: Student reported a medical issue. Message: Dear Sir,
+
+I am taking a leave from Holi and I am leaving the hostel from the 14th of
+March. I will return on the 17th of March.
+
+Thank you,
+Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+FOLLOW-UP DATE: 2025-03-18
+[2025-03-15 12:41:09] TYPE: Medical Issue
+DETAILS: Student reported a medical issue. Message: Dear Sir,
+
+I am taking a leave from Durga Puja and I am leaving the hostel from the
+14th of March. I will return on the 20th of March.
+
+Thank you,
+Aniruddha Mukherjee
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+FOLLOW-UP DATE: 2025-03-18
+[2025-03-15 12:43:25] TYPE: Medical Issue
+DETAILS: Student reported a medical issue. Message: Dear Sir,
+
+I am taking a leave from Holi and I am leaving the hostel from the 14th of
+March. I will return on the 17th of March.
+
+Thank you,
+Aniruddha
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+FOLLOW-UP DATE: 2025-03-18
+[2025-03-15 12:43:27] TYPE: Medical Issue
+DETAILS: Student reported a medical issue. Message: Dear Sir,
+
+I am taking a leave from Durga Puja and I am leaving the hostel from the
+14th of March. I will return on the 20th of March.
+
+Thank you,
+Aniruddha Mukherjee
 
 -- 
 

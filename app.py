@@ -360,6 +360,8 @@ def check_emails():
         # Search for unread emails with [MENTOR-COMMUNICATION] in subject
         search_criteria = '(SUBJECT "[MENTOR-COMMUNICATION]")'
         status, data = mail.search(None, search_criteria)
+
+        print(data)
         
         if status != 'OK':
             print("No mentor communication messages found!")

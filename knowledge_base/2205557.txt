@@ -1,5 +1,5 @@
 # Knowledge Base for Ishaan Mukherjee (2205557)
-Created: 2025-03-15 11:58:17
+Created: 2025-03-15 21:10:16
 
 ## Basic Information
 - Name: Ishaan Mukherjee
@@ -10,16 +10,16 @@ Created: 2025-03-15 11:58:17
 - Parent 2 Phone: 919558738899
 
 ## Attendance Summary
-- Computer Science: 66.4%
-- Data Structures: 77.9%
-- Algorithms: 89.3%
-- Machine Learning: 77.3%
-- Web Development: 64.5%
-- Database Systems: 93.6%
+- Computer Science: 79.6%
+- Data Structures: 68.7%
+- Algorithms: 66.4%
+- Machine Learning: 67.5%
+- Web Development: 64.2%
+- Database Systems: 92.6%
 
 ## Interaction History
 
-[2025-03-15 12:00:45] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
+[2025-03-15 21:10:58] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
 BODY: Hello sir,
 I have to do potty please let me go home
 
@@ -83,9 +83,7 @@ attachments for the presence of viruses. The institute accepts no liability
 
 
 
-[2025-03-15 12:01:44] TO student: SUBJECT: Re: [MENTOR-COMMUNICATION]
-BODY: Thank you for your message. I've noted it down.
-[2025-03-15 12:01:48] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
+[2025-03-15 21:13:03] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
 BODY: Hello sir,
 I have to do potty please let me go home
 
@@ -149,7 +147,7 @@ attachments for the presence of viruses. The institute accepts no liability
 
 
 
-[2025-03-15 12:04:10] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
+[2025-03-15 21:13:13] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
 BODY: Hello sir,
 I have to do potty please let me go home
 
@@ -213,7 +211,7 @@ attachments for the presence of viruses. The institute accepts no liability
 
 
 
-[2025-03-15 12:05:40] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
+[2025-03-15 21:13:20] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
 BODY: Hello sir,
 I have to do potty please let me go home
 
@@ -277,7 +275,7 @@ attachments for the presence of viruses. The institute accepts no liability
 
 
 
-[2025-03-15 12:05:53] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
+[2025-03-15 21:13:26] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
 BODY: Hello sir,
 I have to do potty please let me go home
 
@@ -341,7 +339,7 @@ attachments for the presence of viruses. The institute accepts no liability
 
 
 
-[2025-03-15 12:37:38] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
+[2025-03-15 21:13:33] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
 BODY: Hello sir,
 I have to do potty please let me go home
 
@@ -405,7 +403,7 @@ attachments for the presence of viruses. The institute accepts no liability
 
 
 
-[2025-03-15 12:40:36] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
+[2025-03-15 21:14:23] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
 BODY: Hello sir,
 I have to do potty please let me go home
 
@@ -469,7 +467,7 @@ attachments for the presence of viruses. The institute accepts no liability
 
 
 
-[2025-03-15 12:41:02] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
+[2025-03-15 21:15:17] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
 BODY: Hello sir,
 I have to do potty please let me go home
 
@@ -533,7 +531,7 @@ attachments for the presence of viruses. The institute accepts no liability
 
 
 
-[2025-03-15 12:41:08] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
+[2025-03-15 21:22:31] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
 BODY: Hello sir,
 I have to do potty please let me go home
 
@@ -597,7 +595,135 @@ attachments for the presence of viruses. The institute accepts no liability
 
 
 
-[2025-03-15 12:43:26] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
+[2025-03-15 21:28:42] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
+BODY: Hello sir,
+I have to do potty please let me go home
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+[2025-03-17 20:38:09] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
+BODY: Hello sir,
+I have to do potty please let me go home
+
+-- 
+
+
+* <http://www.kiit.ac.in>*
+
+*
+Go Green: Kindly don't print this unless so 
+required.*
+
+*
+*
+
+*Established U/S 3 of UGC Act and Accredited by NBA of 
+AICTE and NAAC of UGC*
+
+
+
+Visit us @ *http://www.kiit.ac.in 
+<http://www.kiit.ac.in/>*
+
+Follow us @* **|***Twitter 
+<https://www.twitter.com/KIITUniversity/>***|***Facebook** 
+<https://www.facebook.com/KIITUniversity>*|***Instagram 
+<https://www.instagram.com/KIITUniversity/>***|*
+
+
+ 
+  
+  
+
+The information 
+contained in this electronic message and any
+  attachments to this message 
+are intended for the exclusive use of the
+  addressee(s) and may contain 
+proprietary, confidential or privileged
+  information. If you are not the 
+intended recipient, you should not
+  disseminate, distribute or copy this 
+e-mail. Please notify the sender
+  immediately and delete all copies of 
+this message and any attachments.
+  
+
+ VIRUS WARNING: Computer viruses can 
+be
+  transmitted via email. The recipient should check this email and any
+  
+attachments for the presence of viruses. The institute accepts no liability
+  for any damage caused by any virus transmitted by this email.
+  
+ 
+
+
+
+
+
+
+
+
+[2025-03-17 23:26:23] FROM student: SUBJECT: [MENTOR-COMMUNICATION]
 BODY: Hello sir,
 I have to do potty please let me go home
 
@@ -664,5 +790,3 @@ attachments for the presence of viruses. The institute accepts no liability
 ## Special Circumstances
 
 ## Notes
-
-[2025-03-15 12:03:43] Ishaan is retard. Potty is him

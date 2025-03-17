@@ -131,8 +131,11 @@ def load_student_data():
 
 
 def create_knowledge_base(student):
-    """Initialize an empty knowledge base for a student"""
+    """Initialize an empty knowledge base for a student if it doesn't exist"""
     kb_file = os.path.join(CONFIG["knowledge_dir"], f"{student['roll_no']}.txt")
+    
+    if os.path.exists(kb_file):
+        return
     
     # Create basic info section
     kb_content = f"""# Knowledge Base for {student['first_name']} {student['last_name']} ({student['roll_no']})
